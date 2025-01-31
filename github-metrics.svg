@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1439" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1239" class="">
     <defs>
         <style/>
     </defs>
@@ -300,6 +300,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">soc_dev</span></div>
                                     <div class="commit">
+                                        <div class="sha">#519396d</div>
+                                        <div class="message">Fixed running anim for SoC BM16</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">APAmk2/xray-16</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">soc_dev</span></div>
+                                    <div class="commit">
                                         <div class="sha">#57f518a</div>
                                         <div class="message">SoC Globalmap fix</div>
                                     </div>
@@ -482,76 +502,6 @@ This also fixes FPS drop in Mixed configuration after #1751 merge due to BIG amo
                                     <div class="commit">
                                         <div class="sha">#7420f70</div>
                                         <div class="message">Merge branch 'soc_dev' of https://github.com/APAmk2/xray-16 into soc_dev</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 13 commits in
-                                        <span class="repo">fallout2-ce/fallout2-ce</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#1704249</div>
-                                        <div class="message">Code deobfuscation, part 3 #29</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cfea907</div>
-                                        <div class="message">Merge branch 'main' into feature/code-readibility-3-new-repo</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#46c2f46</div>
-                                        <div class="message">Merge branch 'main' into feature/code-readibility-3</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#323cc61</div>
-                                        <div class="message">Decyphering inventory.cc + a few other places</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dfcf61b</div>
-                                        <div class="message">Misc decyphering</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#20d5542</div>
-                                        <div class="message">Decypher Party level</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8714d41</div>
-                                        <div class="message">Clang format fixes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6efbe79</div>
-                                        <div class="message">Decyphering in and around proto_instance + fix build</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ebb6a6b</div>
-                                        <div class="message">Decyphering: perform_drug_effect, MapHeader, perk params
-
-- Remove a few constant conditions in worldmap.cc</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#26c04ae</div>
-                                        <div class="message">obj_attempt_placement + WM encounter ratioMode naming</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#da72bc9</div>
-                                        <div class="message">Inventory symbol naming (WIP)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#91a502d</div>
-                                        <div class="message">gdialog_scroll_subwin() readability</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#71f84cb</div>
-                                        <div class="message">Decypher buildFid (art_id) function</div>
                                     </div>
                                 </div>
                             </section>
