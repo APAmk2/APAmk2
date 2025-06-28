@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1103" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="920" class="">
     <defs>
         <style/>
     </defs>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            679 Commits
+                            680 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -330,6 +330,50 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">APAmk2/FO2R-Engine</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#a9e6959</div>
+                                        <div class="message">Add DllFinish callback</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">APAmk2/FO2R-Engine</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#7239ee7</div>
+                                        <div class="message">Some work with animations
+
+- Reworked animation forming
+ - Deleted ANIM_FLAG_FIRST_FRAME and ANIM_FLAG_LAST_FRAME flags
+- In animation forming event arguments beginFrame &amp; endFrame are passed, that sets from which to which frame animation will be played</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">APAmk2/FO2SDK</span>
                                     </div>
                                 </div>
@@ -378,96 +422,6 @@
                                     <div class="commit">
                                         <div class="sha">#8e3cef7</div>
                                         <div class="message">[Bug] Caravans fix</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 5 commits in
-                                        <span class="repo">APAmk2/FO2SDK</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#acac94e</div>
-                                        <div class="message">[Tech][WIP] Random gifts</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d2be028</div>
-                                        <div class="message">[Tech] Server bins update</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a0e0806</div>
-                                        <div class="message">[Content] x2 Exp event</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e37f172</div>
-                                        <div class="message">[Tech] Deleted unfinished portugalise lang</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d3bb408</div>
-                                        <div class="message">[Content] Malfunc robots event by SEGA_RUS</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 8 commits in
-                                        <span class="repo">APAmk2/FO2R-Engine</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#4676276</div>
-                                        <div class="message">Fixed incorrect width in GetTextInfo</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#adabb44</div>
-                                        <div class="message">Draw flat items under corpses
-
-From FORP</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ea5c720</div>
-                                        <div class="message">NpcPlane
-
-Added vars for NpcPlane:
-uint DelayFullSecond - plane will not be executed until this second
-bool IsNotProccess - plane will not be executed, but still remain in memory</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#df05493</div>
-                                        <div class="message">FORP Engine APIs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#80be121</div>
-                                        <div class="message">Fix null pointer access in AS addon ScriptString</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f1feb3e</div>
-                                        <div class="message">Log textual ProtoMap loading time</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f540bb6</div>
-                                        <div class="message">Slowing down critter processing on maps without players</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ea538fd</div>
-                                        <div class="message">Speed-up ini reading</div>
                                     </div>
                                 </div>
                             </section>
