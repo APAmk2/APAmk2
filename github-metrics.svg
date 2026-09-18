@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2425" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="926" class="">
     <defs>
         <style/>
     </defs>
@@ -332,6 +332,46 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
+                                        <div class="sha">#5f7ee32</div>
+                                        <div class="message"></div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed  commits in
+                                        <span class="repo">fonline-roleplay/FO4RP-Engine</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#61b89e9</div>
+                                        <div class="message"></div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed  commits in
+                                        <span class="repo">fonline-roleplay/FO4RP-Engine</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
                                         <div class="sha">#fc78c7f</div>
                                         <div class="message"></div>
                                     </div>
@@ -372,406 +412,6 @@
                                 <div class="details">
                                     <div>opened by ShinobuOshina in <span class="repo">olr-sop/olr-sop</span></div>
                                     <div class="comment">По идее зафиксил в olr-sop/olr-sop-engine@5db8fd65</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed  commits in
-                                        <span class="repo">olr-sop/olr-sop-engine</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev_stable</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#5db8fd6</div>
-                                        <div class="message"></div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed  commits in
-                                        <span class="repo">olr-sop/olr-sop-gamedata</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev_multiplayer</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#67e224d</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2a77a9d</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9fd60aa</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#71cc8f1</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5a3bf39</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fa05980</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#11858a5</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8c5fa20</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b26fccf</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#348465f</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cd4f697</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eeb60ba</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b3bd9ee</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fa9c2f8</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#76138d1</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a68c177</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3fcf7aa</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#72b6307</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f9c43a3</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#16a9942</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#305557f</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d0785e7</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6870268</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1da9988</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#34614fc</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d2d22da</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1117b0d</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#88c6535</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1c279f9</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#28e40e5</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#864818e</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#de263a6</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6484614</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8699359</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#12867cd</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#76bf1bf</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eb9c72f</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b94473b</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f18dae0</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7410866</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#920b5bd</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#df3922d</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#74c2ee7</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6a8dd29</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#50c6665</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e7a342b</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6b5d7b2</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e4a8b8f</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a8fdc09</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#df24ce3</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#23248bf</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a1bc5b0</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#108ce8f</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1ce9314</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2027bbe</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4ea7f25</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c055ccd</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#df5b58b</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b0cb9a7</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ffbd318</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a5ffb1a</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#95ce64e</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#baf9b7a</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2b52775</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4126ee0</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8d19769</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f84c682</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b6e6be6</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#26d2ebe</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e0ea9bf</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#44ba4f7</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6db192b</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6a7b408</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#94da8d3</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4a5711f</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#038b37f</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8de32aa</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#69ad925</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ca66a8f</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c38020a</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1495381</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9aea2b4</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5233077</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#67fab1b</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1a58ebd</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#09d15e5</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#26d2944</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4560628</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eba92a4</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#499eedf</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#41e4f92</div>
-                                        <div class="message"></div>
-                                    </div>
                                 </div>
                             </section>
                         </div>
